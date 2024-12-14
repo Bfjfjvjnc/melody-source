@@ -1,0 +1,24 @@
+{
+  "name": "stickers-set-1",
+  "artist": "PhantomArcade3K, GoodieBag",
+  "stickers": {
+    "bf": ["bfSticker1", "bfSticker2", "bfSticker3"],
+    "dad": ["dadSticker1", "dadSticker2", "dadSticker3"],
+    "pico": ["picoSticker1", "picoSticker2", "picoSticker3"],
+    "mom": ["momSticker1", "momSticker2", "momSticker3"],
+    "monster": ["monsterSticker1", "monsterSticker2", "monsterSticker3"],
+    "gf": ["gfSticker1", "gfSticker2", "gfSticker3"],
+    "spooky": ["spookySticker1", "spookySticker2", "spookySticker3"],
+    "senpai": ["senpaiSticker1", "senpaiSticker2", "senpaiSticker3"],
+    "spirit": ["spiritSticker1", "spiritSticker2", "spiritSticker3"],
+    "tankman": ["tankmanSticker1", "tankmanSticker2", "tankmanSticker3"],
+    "nene": ["neneSticker1", "neneSticker2", "neneSticker3"],
+    "darnell": ["darnellSticker1", "darnellSticker2", "darnellSticker3"]
+  },
+  "stickerPacks": {
+    "bf-gf": ["bf", "gf"],
+    "gf-parents": ["dad", "mom"],
+    "pico-gang": ["pico", "darnell", "nene"],
+    "all": ["bf", "gf", "dad", "mom", "monster", "pico", "spooky", "senpai", "spirit", "tankman", "nene", "darnell"]
+  }
+}

@@ -1,0 +1,27 @@
+{
+	"songs": [
+		[
+			"",
+			"bf",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": true,
+	"weekBackground": "",
+	"difficulties": "Normal",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "",
+	"weekName": "test",
+	"hideStoryMode": true,
+	"weekBefore": "",
+	"startUnlocked": true
+}
