@@ -8,9 +8,13 @@ Refer to the [Building Instructions](./BUILDING.md)
 
 
 ## Compiling:
-To compile, you must first complete the steps listed above in *BUILDING.md*. Run the command `lime test cpp` in your Windows Powershell / CMD, and enjoy!
+To compile, you must first complete the steps listed above in *BUILDING.md*. First of all, run `haxelib run lime setup`.
+
+Then run the command `lime test cpp` in your Windows Powershell / CMD, and enjoy!
 
 For 32-bit shit [_x86] then run `lime test cpp -32 -D 32bits -D HXCPP_M32`
+
+If you're compiling for debug purposes [`lime test cpp -debug`], you'll need to run `haxelib install hxcpp-debug-server 1.2.4`.
 
 ## Credits:
 * BobbyDX - main forker
